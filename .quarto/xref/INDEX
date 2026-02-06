@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "7c5d2622"
+  },
+  "discuss.qmd": {
+    "discuss.html": "3575374f"
+  },
+  "index.qmd": {
+    "index.html": "2dd09dbc"
+  },
+  "publications.qmd": {
+    "publications.html": "83ac4e06"
+  },
+  "blog.qmd": {
+    "blog.html": "bb311538"
+  },
+  "posts/discuss.qmd": {
+    "discuss.html": "4121539d"
+  },
+  "posts/posts/unemployment-paradox.qmd": {
+    "unemployment-paradox.html": "1cd2c9be"
+  },
+  "posts/unemployment-paradox.qmd": {
+    "unemployment-paradox.html": "5784c9ac"
+  }
+}
